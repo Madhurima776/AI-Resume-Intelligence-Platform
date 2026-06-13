@@ -82,24 +82,24 @@ This project aims to bridge that gap by providing an automated system that:
 
 ### Dashboard
 
-*(<img width="1886" height="886" alt="image" src="https://github.com/user-attachments/assets/5eb53e72-34dc-4758-982d-0298621d7ef5" />
-)*
+<img width="1886" height="886" alt="image" src="https://github.com/user-attachments/assets/5eb53e72-34dc-4758-982d-0298621d7ef5" />
+
 
 ### Resume Analysis
 
-*(<img width="1848" height="710" alt="image" src="https://github.com/user-attachments/assets/10ce54ff-6e99-43d1-b0be-52ad3fad32f5" />
-)*
+<img width="1848" height="710" alt="image" src="https://github.com/user-attachments/assets/10ce54ff-6e99-43d1-b0be-52ad3fad32f5" />
+
 
 ### Resume Library
 
-*(<img width="1807" height="900" alt="image" src="https://github.com/user-attachments/assets/b4d0b832-31d7-4b48-bd65-683ccaa464af" />
-)**(<img width="1837" height="873" alt="image" src="https://github.com/user-attachments/assets/89b78af4-0a35-43ee-b819-ae6c1010a0ab" />
-)
+<img width="1807" height="900" alt="image" src="https://github.com/user-attachments/assets/b4d0b832-31d7-4b48-bd65-683ccaa464af" />
+<img width="1837" height="873" alt="image" src="https://github.com/user-attachments/assets/89b78af4-0a35-43ee-b819-ae6c1010a0ab" />
+
 
 ### Learning Recommendations
 
-*(<img width="1830" height="822" alt="image" src="https://github.com/user-attachments/assets/3e7a9e83-ef11-4816-a290-2a2723c19685" />
-)*
+<img width="1830" height="822" alt="image" src="https://github.com/user-attachments/assets/3e7a9e83-ef11-4816-a290-2a2723c19685" />
+
 
 ---
 
