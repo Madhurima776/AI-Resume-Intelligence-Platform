@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+resume_matcher.db
+.env
+.vscode/
+.idea/
